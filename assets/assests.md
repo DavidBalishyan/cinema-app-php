@@ -1,0 +1,1 @@
+# The folder /assests/uploads is only used for uploaded files from user
